@@ -1,2 +1,2 @@
-# VRobot-
-QDU算法组培训
+# VRobot-traning
+QDU算法组进队考核题
