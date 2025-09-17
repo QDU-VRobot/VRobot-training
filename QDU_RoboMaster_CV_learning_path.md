@@ -391,7 +391,7 @@ Git的核心功能是跟踪一个项目中所有文件的每一次修改。无�
 
 #### ROS2
 
-TO BE DONE
+参考：QDU_RoboMaster_ROS2_learning_path.md
 
 
 
